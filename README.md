@@ -16,7 +16,7 @@ Welcome to my GitHub space! I'm passionate about building impactful solutions an
 - 🌱 I’m currently learning:
 - Advanced Node.js and API design  
 - React performance optimization  
-- Rust programming basics  
+- Rust programming.  
 - DevOps fundamentals (CI/CD, Docker)  
 
 ---
@@ -24,7 +24,7 @@ Welcome to my GitHub space! I'm passionate about building impactful solutions an
 - 💞️ I’m looking to collaborate on:
 - Open-source projects in web development  
 - Tools that empower communities or education  
-- Scalable backend systems and dashboards  
+- Scalable backend systems.
 
 ---
 
@@ -41,7 +41,7 @@ He/Him
 ---
 
 - ⚡ Fun fact:
-I love solving technical problems almost as much as I enjoy watching tech explainers on YouTube at 2x speed! 🚀
+I love solving technical problems almost as much as I enjoy watching tech vedios 🚀
 
 
 
