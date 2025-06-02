@@ -29,7 +29,7 @@ Welcome to my GitHub space! I'm passionate about building impactful solutions an
 ---
 
 - 📫 How to reach me:
-- Email: burxells873@gmail.com  
+- Email: parcch26@gmail.com  
 - LinkedIn: www.linkedin.com/in/andrew-patawah-159a88265  
 - Portfolio: www.parcch.com  
 
