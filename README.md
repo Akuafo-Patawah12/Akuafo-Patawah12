@@ -41,7 +41,7 @@ He/Him
 ---
 
 - ⚡ Fun fact:
-I love solving technical problems almost as much as I enjoy watching tech vedios 🚀
+I love solving technical problems almost as much as I enjoy watching tech videos.
 
 
 
