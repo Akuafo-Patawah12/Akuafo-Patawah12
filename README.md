@@ -5,7 +5,7 @@ Welcome to my GitHub space! I'm passionate about building impactful solutions an
 
 ## 💻 Tech Stack
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=DEA584)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -17,7 +17,7 @@ Welcome to my GitHub space! I'm passionate about building impactful solutions an
 
 ---
 
-- 👀 I’m interested in:
+### 👀 I’m interested in:
 - Full-stack web development  
 - Open-source contributions  
 - Real-time applications (Sockets, Live APIs)  
@@ -26,7 +26,7 @@ Welcome to my GitHub space! I'm passionate about building impactful solutions an
 
 ---
 
-- 🧠 Deepening my knowledge in:
+### 🧠 Deepening my knowledge in:
 - Advanced Node.js and API design  
 - React performance optimization  
 - Rust programming.  
@@ -37,26 +37,26 @@ Welcome to my GitHub space! I'm passionate about building impactful solutions an
 
 ---
 
-- 💞️ I’m looking to collaborate on:
+### 💞️ I’m looking to collaborate on:
 - Open-source projects in web development  
 - Tools that empower communities or education  
 - Scalable backend systems.
 
 ---
 
-- 📫 How to reach me:
+### 📫 How to reach me:
 - Email: parcch26@gmail.com  
 - LinkedIn: www.linkedin.com/in/andrew-patawah-159a88265  
 - Portfolio: www.parcch.com  
 
 ---
 
-- 😄 Pronouns:
+### 😄 Pronouns:
 He/Him 
 
 ---
 
-- ⚡ Fun fact:
+### ⚡ Fun fact:
 I love solving technical problems almost as much as I enjoy watching tech videos.
 
 
