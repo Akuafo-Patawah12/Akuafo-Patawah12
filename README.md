@@ -51,11 +51,6 @@ Welcome to my GitHub space! I'm passionate about building impactful solutions an
 
 ---
 
-### 😄 Pronouns:
-He/Him 
-
----
-
 ### ⚡ Fun fact:
 I love solving technical problems almost as much as I enjoy watching tech videos.
 
